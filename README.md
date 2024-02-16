@@ -30,16 +30,18 @@ Join us in The Space Jam Project as we build the ultimate basketball team to def
 
 In this chapter, we will outline our data analysis process for selecting the best basketball players to save humanity in The Space Jam Project. We will leverage the NBA API's endpoints, specifically `leaguedashplayerstats` and `playerestimatedmetrics`, to gather data for the first five parameters.
 
-## Drafting Process
+## Statistical Analysis in Jupyter Lab
+
+### Draft Parameters:
 
 1. **Wins, Offensive Skills, Defensive Skills, Efficiency, and Impact**:
-   - Utilize the NBA API's `leaguedashplayerstats` and `playerestimatedmetrics` endpoints to gather relevant player statistics.
+   - Use the NBA API's `LeagueDashPlayerStats` and `PlayerEstimatedMetrics` endpoints to gather relevant player statistics.
    - Calculate and assess performance metrics for each player in the areas of wins, offensive skills, defensive skills, efficiency, and impact.
    - Store the data in CSV files for further analysis.
 
 2. **Clutch Performance**:
    - Focus on statistics recorded in the last 10 seconds of the shot clock to determine clutch performance.
-   - Extract relevant data from the NBA API and store it in a CSV file.
+   - Extract relevant data from the NBA API using the `LeagueDashPlayerStats` endpoint and store it in a CSV file.
 
 3. **Defensive Specialist**:
    - Utilize the NBA API's `LeagueHustleStatsPlayer` endpoint to identify defensive stats.
@@ -51,7 +53,7 @@ In this chapter, we will outline our data analysis process for selecting the bes
 1. **Data Cleaning and Modeling**:
    - Import the CSV files into Power BI.
    - Perform data cleaning and modeling to prepare the data for analysis.
-   - Create an Entity-Relationship Diagram (ERD) to visualize the relationships between tables.
+   - Create an Entity-Relationship Diagram (ERD) to visualise the relationships between tables.
 
 2. **Calculation and Visualization**:
    - Perform additional calculations as needed based on the drafted parameters.
@@ -59,15 +61,27 @@ In this chapter, we will outline our data analysis process for selecting the bes
    - Add extra data such as player headshots, PNGs, logos, nicknames, and descriptions.
 
 3. **Visualization Techniques**:
-   - Utilize radar charts to visually display player statistics in a visually pleasing manner.
+   - Utilise radar charts to visually display player statistics in a visually pleasing manner.
    - Adjust all statistics for consistency and clarity in the radar chart.
 
 4. **Dashboard Creation**:
-   - Create three dashboards in Power BI:
-     - One for starters.
-     - One for bench players.
-     - One for the wildcards.
-   - Focus on aesthetics to ensure the dashboards are visually appealing.
+   - We are going to create three interactive dashboards in Power BI:
+
+     - One for starters:
+
+![StartersDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/50c6b0b2-61b3-4d99-90e7-d65fc7a924e5)
+
+
+     - One for bench players:
+
+![BenchDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/f8469bfc-3b4d-4e1f-8706-948800147e85)
+
+
+     - One for the wildcards:
+
+![WildcardsDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/a1277734-c036-4b9e-a052-1fd1471d37fd)
+  
+
 
 ## Conclusion
 
