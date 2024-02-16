@@ -1,4 +1,4 @@
-# The Space Jam Project
+# The Space Jam Project 🌌🏀
 
 Welcome to The Space Jam Project, where we're on a mission to save Earth from an invasion by superhuman aliens using the power of basketball!
 
@@ -26,7 +26,7 @@ Additionally, we'll select two wildcard players—one focused on clutch performa
 
 Join us in The Space Jam Project as we build the ultimate basketball team to defend Earth and ensure the future of humanity through the game we love!
 
-# Data Analysis Process for The Space Jam Project
+# Data Analysis Process for The Space Jam Project 🌌🏀
 
 In this chapter, we will outline our data analysis process for selecting the best basketball players to save humanity in The Space Jam Project. We will leverage the NBA API's endpoints, specifically `leaguedashplayerstats` and `playerestimatedmetrics`, to gather data for the first five parameters.
 
@@ -69,7 +69,7 @@ In this chapter, we will outline our data analysis process for selecting the bes
 
      - One for starters:
 
-![StartersDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/50c6b0b2-61b3-4d99-90e7-d65fc7a924e5)
+![StartersDraft1](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/718d8b10-eed9-49e7-bdd3-7c1d2949e4ae)
 
 
      - One for bench players:
@@ -83,6 +83,6 @@ In this chapter, we will outline our data analysis process for selecting the bes
   
 
 
-## Conclusion
+## Conclusion 🌌🏀
 
 Thank you for joining us in The Space Jam Project! We hope you enjoyed our data analysis process and the creation of the ultimate basketball team to defend Earth. Please let us know if you liked it by pushing the heart button. All the photos used belong to the NBA.
