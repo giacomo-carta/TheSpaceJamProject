@@ -68,18 +68,17 @@ In this chapter, we will outline our data analysis process for selecting the bes
    - We are going to create three interactive dashboards in Power BI:
 
      - One for starters:
-
-![StartersDraft1](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/718d8b10-eed9-49e7-bdd3-7c1d2949e4ae)
-
+     
+       ![StartersDraft1](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/718d8b10-eed9-49e7-bdd3-7c1d2949e4ae)
 
      - One for bench players:
-
-![BenchDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/f8469bfc-3b4d-4e1f-8706-948800147e85)
-
+     
+       ![BenchDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/f8469bfc-3b4d-4e1f-8706-948800147e85)
 
      - One for the wildcards:
+     
+       ![WildcardsDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/a1277734-c036-4b9e-a052-1fd1471d37fd)
 
-![WildcardsDraft](https://github.com/giacomo-carta/TheSpaceJamProject/assets/153180003/a1277734-c036-4b9e-a052-1fd1471d37fd)
   
 
 
